@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.tox/
+build/
+*.egg-info/
+env-tox/
+.venv/
+package-src/model/trained/*.pkl
